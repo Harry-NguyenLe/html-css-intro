@@ -1,0 +1,9 @@
+/* Khi select tới đối tượng id thì sử dụng dấu # */
+/* Khi select tới đối tượng class thì sử dụng dấu . */
+
+#first-heading{
+    color: hotpink;
+}
+.second-heading{
+    color: green;
+}
