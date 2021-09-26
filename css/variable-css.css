@@ -1,0 +1,16 @@
+:root{
+    --heading-color: orange;
+    --content-color: red;
+}
+
+h1{
+    color: var(--heading-color);
+}
+
+h2 {
+    color: var(--heading-color);
+}
+
+h3{
+    color: var(--content-color);
+}
